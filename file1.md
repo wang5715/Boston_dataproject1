@@ -26,7 +26,7 @@ Variables are picked based on intuition, data availability, visualizaiton result
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the provided jupyter file.
+The main findings of the code can be found at the provided jupyter file and here https://medium.com/@wbxdg3/boston-airbnb-project-finding-d1e38eab3250
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
